@@ -1,3 +1,4 @@
+#![allow(deprecated)]
 #![allow(clippy::missing_safety_doc)] // FIXME
 
 //! `rust-numpy` provides Rust interfaces for [NumPy C APIs](https://numpy.org/doc/stable/reference/c-api),
